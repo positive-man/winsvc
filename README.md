@@ -1,2 +1,3 @@
 # winsvc
-Windows Service on Python Code
+
+파이썬 기반 윈도우즈 서비스 개발을 위한 코드 스니핏
